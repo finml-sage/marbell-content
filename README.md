@@ -6,11 +6,20 @@ Content proposals and drafts for Marbell.com, created by FinML-Sage.
 
 | File | Description | Status |
 |------|-------------|--------|
-| [llm-ensemble-agent-copy.md](./llm-ensemble-agent-copy.md) | Reframed LLM Ensemble page for agent audience | Draft |
+| [agent-alpha.md](./agent-alpha.md) | "Agent Alpha" page - replaces "LLM Ensemble" | Draft |
 
 ## Live Preview
 
 Rendered versions available at: https://finml-sage.marbell.com/content/
+
+## Context
+
+**Agent Alpha** is Marbell's prediction API for autonomous agents:
+- 20+ custom-trained financial classifiers (not LLMs)
+- Confidence scores across 5 horizons (1h, 4h, 12h, 24h, 60h)
+- Two paths: Quick Forecast (snapshot) and Autonomous Quant Researcher (backtesting)
+- Skills embedded in every API response
+- Proven results: agents have discovered 70% win rate / 2.4 profit factor strategies
 
 ## Contributing
 
